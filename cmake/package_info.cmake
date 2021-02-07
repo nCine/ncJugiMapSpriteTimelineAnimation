@@ -1,7 +1,7 @@
 set(PACKAGE_NAME "ncJugiMapSpriteTimelineAnimation")
 set(PACKAGE_EXE_NAME "ncjugimap_spritetimelineanimation")
 set(PACKAGE_VENDOR "Jugilus")
-set(PACKAGE_COPYRIGHT "Copyright ©2020 ${PACKAGE_VENDOR}")
+set(PACKAGE_COPYRIGHT "Copyright ©2020-2021 ${PACKAGE_VENDOR}")
 set(PACKAGE_DESCRIPTION "A nCine port of the JugiMap Sprite Timeline Animation demo by Jugilus")
 set(PACKAGE_HOMEPAGE "http://jugimap.com")
 set(PACKAGE_REVERSE_DNS "com.jugimap.spritetimelineanimation.ncine")
