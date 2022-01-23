@@ -1,7 +1,7 @@
 set(NCPROJECT_NAME "ncJugiMapSpriteTimelineAnimation")
 set(NCPROJECT_EXE_NAME "ncjugimap_spritetimelineanimation")
 set(NCPROJECT_VENDOR "Jugilus")
-set(NCPROJECT_COPYRIGHT "Copyright ©2020-2021 ${NCPROJECT_VENDOR}")
+set(NCPROJECT_COPYRIGHT "Copyright ©2020-2022 ${NCPROJECT_VENDOR}")
 set(NCPROJECT_DESCRIPTION "A nCine port of the JugiMap Sprite Timeline Animation demo by Jugilus")
 set(NCPROJECT_HOMEPAGE "http://jugimap.com")
 set(NCPROJECT_REVERSE_DNS "com.jugimap.spritetimelineanimation.ncine")
